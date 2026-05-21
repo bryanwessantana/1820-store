@@ -1,11 +1,20 @@
-# Sobre a 1820 Store
+# 1820 Store
 
-Na 1820 Store, acreditamos que a arte não deve apenas decorar uma parede, mas contar uma história. Nossa jornada começou com o desejo de levar obras de arte clássicas e fantásticas para dentro dos lares, com a qualidade de um museu e o toque pessoal do feito à mão.
+A 1820 Store é uma curadoria de arte impressa e emoldurada à mão, trazendo coleções exclusivas como SUD, Middle-earth e Classics. Nosso compromisso é com a qualidade do material, utilizando papel algodão 310g e molduras maciças de alta durabilidade.
 
-### Nosso Processo
-Cada peça em nossa galeria é tratada com rigor técnico:
-* **Impressão Giclée:** Utilizamos tintas pigmentadas de longa duração em papel de algodão 310g, garantindo que as cores permaneçam vibrantes por mais de um século.
-* **Molduras em Madeira Maciça:** Nossas molduras são cortadas com precisão em ângulos de 45°, montadas artesanalmente no sul do Brasil. 
-* **Embalagem:** Sabemos que uma obra de arte precisa chegar impecável. Por isso, desenvolvemos uma embalagem estruturada com proteção tripla para garantir que sua encomenda chegue perfeita.
+## Tecnologias Utilizadas
+Este projeto foi desenvolvido com foco em performance e uma experiência de compra elegante:
+- **Framework:** TanStack Start / React
+- **Estilização:** Tailwind CSS
+- **Animações:** Framer Motion
+- **Deploy/Servidor:** Otimizado para alta performance e escalabilidade.
 
-**1820 Store — Arte que transforma espaços.**
+## Funcionalidades
+- [x] Navegação por coleções.
+- [x] Pré-visualização dinâmica de quadros em ambiente real.
+- [x] Guia de tamanhos interativo.
+- [x] Cálculo de frete simulado.
+- [x] Design responsivo para desktop e mobile.
+
+---
+*Projeto desenvolvido para 1820 Store.*
