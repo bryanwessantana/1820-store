@@ -28,7 +28,7 @@ export function Navbar({
   }, [onOpenSearch]);
 
   return (
-    <header className="sticky top-0 z-40 border-b border-white/10 bg-ink/95 text-background backdrop-blur-xl">
+    <header className="sticky top-0 z-40 border-b border-white/10 bg-ink text-background">
       <div className="mx-auto flex h-24 max-w-7xl items-center justify-between gap-4 px-5 lg:px-8">
         <Logo />
 
